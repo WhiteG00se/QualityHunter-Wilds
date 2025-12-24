@@ -65,7 +65,9 @@
 <details> <!-- 3rd party mods included in my bundle -->
   <summary>3rd party mods included in my bundle</summary>
   <ul>
-    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/93?tab=files">REFramework</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/93?tab=files">REFramework (Download from GitHub instead)</a></li>
+    <li><a href="https://github.com/praydog/REFramework-nightly/releases">REFramework Nightly Builds (only the dinput8.dll is needed)</a></li>
+
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
