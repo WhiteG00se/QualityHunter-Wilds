@@ -1,3 +1,8 @@
+ref_ui.ini
+re2_framework_log.txt
+reframework_accessed_files.txt
+reframework_loose_files.txt
+
 AkConvolutionReverb.dll
 AkSoundSeedAir.dll
 amd_ags_x64.dll
