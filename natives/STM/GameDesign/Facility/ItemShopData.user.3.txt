@@ -14,5 +14,5 @@ all "Knife" items
 Tranq Blade
 Exhaust Coating
 Compact Anti-Wyvern Gun
-(Mega) Demon Drug
+(Mega) Demondrug
 (Mega) Armorskin
