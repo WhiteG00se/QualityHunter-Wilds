@@ -11,5 +11,8 @@ First-aid Med
 First-aid Med+
 all "EZ" items
 all "Knife" items
+Tranq Blade
 Exhaust Coating
 Compact Anti-Wyvern Gun
+(Mega) Demon Drug
+(Mega) Armorskin
