@@ -3,6 +3,7 @@ re2_framework_log.txt
 reframework_accessed_files.txt
 reframework_loose_files.txt
 
+/dlc
 AkConvolutionReverb.dll
 AkSoundSeedAir.dll
 amd_ags_x64.dll
