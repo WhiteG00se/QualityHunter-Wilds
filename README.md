@@ -73,7 +73,7 @@
 <details> <!-- Tools and info used to create my mods -->
   <summary>Tools and info used to create my mods</summary>
   <ul>
-    <li><a href="https://github.com/Synthlight/RE-Editor">Synthlight's MHR Editor</a></li>
+    <li><a href="https://github.com/Synthlight/RE-Editor">Synthlight's RE-Editor</a></li>
     <li><a href="https://github.com/eigeen/ree-pak-gui">ree-pak-gui to unpack game files</a></li>
   </ul>
 </details>
