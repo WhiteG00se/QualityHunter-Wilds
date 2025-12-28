@@ -1,0 +1,11 @@
+{
+    "disable": "비활성화",
+    "notification": "알림 보내기",
+    "enter_tent": "텐트에 입장 시",
+    "mission_start": "미션 시작 시",
+    "check_seikret_pouch": "세크레트 주머니 확인 시",
+    "restock_from_item_my_set": "마지막 아이템 세트 적용",
+    "restock_item_pouch": "아이템 주머니 보충",
+    "item_pouch_restocked": "아이템이 보충되었습니다.",
+    "item_loadout_applied": "아이템 세트가 적용되었습니다."
+}

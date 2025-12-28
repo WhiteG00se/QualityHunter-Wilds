@@ -1,0 +1,11 @@
+{
+    "disable": "Desativar",
+    "notification": "Enviar notificações",
+    "enter_tent": "Entrar na Tenda",
+    "mission_start": "Missão Iniciada",
+    "check_seikret_pouch": "Checar Bolsa Seikret",
+    "restock_from_item_my_set": "Aplicar Ultima Configuração de Itens",
+    "restock_item_pouch": "Reestocar Bolsa de Itens",
+    "item_pouch_restocked": "Itens Reestocados.",
+    "item_loadout_applied": "Itens Reestocados."
+}

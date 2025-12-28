@@ -1,0 +1,11 @@
+{
+    "disable": "Wylacz",
+    "notification": "Wyslij Powiadomienie",
+    "enter_tent": "Wejdz do Namiotu",
+    "mission_start": "Rozpocznij misje",
+    "check_seikret_pouch": "Sprawdz sakiewke Seikreta",
+    "restock_from_item_my_set": "Zastosuj ostatni zestaw przedmiotów",
+    "restock_item_pouch": "Uzupelnij sakiewke z przedmiotami",
+    "item_pouch_restocked": "Przedmioty uzupełnione.",
+    "item_loadout_applied": "Zastosowano zestaw przedmiotów."
+}

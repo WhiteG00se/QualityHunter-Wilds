@@ -1,0 +1,11 @@
+{
+    "disable": "关",
+    "notification": "发送通知",
+    "enter_tent": "进入帐篷",
+    "mission_start": "任务开始",
+    "check_seikret_pouch": "打开鹭鹰龙袋",
+    "restock_from_item_my_set": "套用上次的个人组合",
+    "restock_item_pouch": "补充道具袋",
+    "item_pouch_restocked": "已补充道具。",
+    "item_loadout_applied": "已套用个人组合。"
+}

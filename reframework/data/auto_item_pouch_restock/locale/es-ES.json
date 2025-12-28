@@ -1,0 +1,11 @@
+{
+    "disable": "Deshabilitar",
+    "notification": "Enviar notificaciones",
+    "enter_tent": "Entrar en la tienda",
+    "mission_start": "Inicio de misión",
+    "check_seikret_pouch": "Consultar bolsa del Seikret",
+    "restock_from_item_my_set": "Reabastecer último set de objetos",
+    "restock_item_pouch": "Reabastecer objetos",
+    "item_pouch_restocked": "Objetos reabastecidos.",
+    "item_loadout_applied": "Set de objetos cargado."
+}

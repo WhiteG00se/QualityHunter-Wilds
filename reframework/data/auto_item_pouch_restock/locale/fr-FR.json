@@ -1,0 +1,11 @@
+{
+    "disable": "Désactivé",
+    "notification": "Envoyer les notifications",
+    "enter_tent": "Entrer dans la tente",
+    "mission_start": "Début de la quête",
+    "check_seikret_pouch": "Réapprovisionnement via Seikret",
+    "restock_from_item_my_set": "Réapprovisionnement depuis mon set d'objets",
+    "restock_item_pouch": "Réapprovisionnement d'objets",
+    "item_pouch_restocked": "Objets réapprovisionnés.",
+    "item_loadout_applied": "Dernier set d'objets chargé."
+}

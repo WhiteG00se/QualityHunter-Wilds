@@ -1,0 +1,11 @@
+{
+    "disable": "無効",
+    "notification": "通知の送信",
+    "enter_tent": "テントに入る",
+    "mission_start": "クエスト開始",
+    "check_seikret_pouch": "セクレトポーチメニューを開く",
+    "restock_from_item_my_set": "前回のアイテムマイセットを呼び出し",
+    "restock_item_pouch": "アイテムポーチの一括補充",
+    "item_pouch_restocked": "アイテムが補充されました。",
+    "item_loadout_applied": "マイセット呼び出しました。"
+}

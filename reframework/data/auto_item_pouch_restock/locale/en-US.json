@@ -1,0 +1,11 @@
+{
+    "disable": "Disable",
+    "notification": "Send Notification",
+    "enter_tent": "Enter Tent",
+    "mission_start": "Mission Start",
+    "check_seikret_pouch": "Check Seikret Pouch",
+    "restock_from_item_my_set": "Apply Last Item Loadout",
+    "restock_item_pouch": "Restock Item Pouch",
+    "item_pouch_restocked": "Items restocked.",
+    "item_loadout_applied": "Item loadout applied."
+}

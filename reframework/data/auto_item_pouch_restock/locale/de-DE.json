@@ -1,0 +1,11 @@
+{
+    "disable": "Deaktivieren",
+    "notification": "Benachrichtigungen senden",
+    "enter_tent": "Betreten des Zelts",
+    "mission_start": "Missionsstart",
+    "check_seikret_pouch": "Überprüfen der Saikriitasche",
+    "restock_from_item_my_set": "Zuletzt genutztes Objektset verwenden",
+    "restock_item_pouch": "Objektbeutel auffüllen",
+    "item_pouch_restocked": "Objektbeutel wieder aufgefüllt.",
+    "item_loadout_applied": "Objektset angewendet."
+}
