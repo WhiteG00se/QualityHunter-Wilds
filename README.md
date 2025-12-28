@@ -70,6 +70,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/30?tab=files">Shop Tweaks - Consumables Only (with my own changes)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/133?tab=files">Unlimited Character and Palico Edits</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/38?tab=files">Auto Item Pouch Restock</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/212?tab=files">Infinite Investigations</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
