@@ -71,6 +71,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/133?tab=files">Unlimited Character and Palico Edits</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/38?tab=files">Auto Item Pouch Restock</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/212?tab=files">Infinite Investigations</a></li>
+    <li><a href="https:/www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
@@ -80,3 +81,5 @@
     <li><a href="https://github.com/eigeen/ree-pak-gui">ree-pak-gui to unpack game files</a></li>
   </ul>
 </details>
+
+[def]: ttps://www.nexusmods.com/monsterhunterwilds/mods/153?tab=file
