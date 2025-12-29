@@ -2,6 +2,8 @@ ref_ui.ini
 re2_framework_log.txt
 reframework_accessed_files.txt
 reframework_loose_files.txt
+Enums_Internal.hpp
+reframework/data/auto_item_pouch_restock/config/config.json
 
 /dlc
 AkConvolutionReverb.dll
@@ -70,4 +72,3 @@ actionManifest/config_controller_xbox360.vdf
 actionManifest/config_controller_xboxone.vdf
 actionManifest/steam_input_manifest.vdf
 D3D12/D3D12Core.dll
-Enums_Internal.hpp
