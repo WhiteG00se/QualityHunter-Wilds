@@ -81,5 +81,3 @@
     <li><a href="https://github.com/eigeen/ree-pak-gui">ree-pak-gui to unpack game files</a></li>
   </ul>
 </details>
-
-[def]: ttps://www.nexusmods.com/monsterhunterwilds/mods/153?tab=file
