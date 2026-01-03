@@ -72,6 +72,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/38?tab=files">Auto Item Pouch Restock</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/212?tab=files">Infinite Investigations</a></li>
     <li><a href="https:/www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
