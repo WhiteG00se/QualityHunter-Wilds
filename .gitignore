@@ -72,3 +72,4 @@ actionManifest/config_controller_xbox360.vdf
 actionManifest/config_controller_xboxone.vdf
 actionManifest/steam_input_manifest.vdf
 D3D12/D3D12Core.dll
+reframework_crash.dmp
