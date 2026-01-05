@@ -74,6 +74,7 @@
     <li><a href="https:/www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/661?tab=files">Legal Max Roll Investigations</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values (manually fix _index)</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
