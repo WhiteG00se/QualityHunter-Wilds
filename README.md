@@ -73,7 +73,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/212?tab=files">Infinite Investigations</a></li>
     <li><a href="https:/www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/661?tab=files">Legal Max Roll Investigations</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/661?tab=files">Legal Max Roll Investigations (use _toggle_investigations.bat to disable if you wanna join other players' unmaxed investigations)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values - manually fix _index, 25 => golden eggs (48) and Damaged Weapon Shard (5) => Oricalcite (8)</a></li>
   </ul>
 </details>
