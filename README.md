@@ -74,8 +74,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/661?tab=files">Legal Max Roll Investigations (use _toggle_investigations.bat to disable if you wanna join other players' unmaxed investigations)</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values | manually fix index | prices 5=>2 & 25=>10 | Advanced Armor Sphere (1) => golden eggs (40) | Damaged Weapon Shard (5) => Oricalcite (8) | Rusted Weapon Shard (20) STORY_000488 => Mutated Armament (40) STORY_000451
-</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values | manually fix index | prices 5=>2 & 25=>10 | Advanced Armor Sphere (1) => golden eggs (40) | Damaged Weapon Shard (5) => Oricalcite (8) | Rusted Weapon Shard (20) STORY_000488 => Mutated Armament (20) STORY_000451</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
