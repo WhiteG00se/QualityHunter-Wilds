@@ -74,3 +74,4 @@ actionManifest/steam_input_manifest.vdf
 D3D12/D3D12Core.dll
 reframework_crash.dmp
 reframework/plugins/DLC_Check_Performance_Patch.log
+_storage_/dinput8.dll
