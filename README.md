@@ -84,5 +84,6 @@
   <ul>
     <li><a href="https://github.com/Synthlight/RE-Editor">Synthlight's RE-Editor (MHWS Version)</a></li>
     <li><a href="https://github.com/eigeen/ree-pak-gui">ree-pak-gui to unpack game files</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3602?tab=posts">MH Wilds Save Editor</a></li>
   </ul>
 </details>
