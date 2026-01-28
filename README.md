@@ -74,8 +74,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/153?tab=files">More Camps and They Never Break - More Safe Spaces (+50)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/661?tab=files">Legal Max Roll Investigations (use _toggle_investigations.bat to disable if you wanna join other players' unmaxed investigations)</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values | manually fix index | prices 5=>4 & 25=>20 | Advanced Armor Sphere (1) => golden eggs (40) | Damaged Weapon Shard (5) => Oricalcite (4) | Rusted Weapon Shard (20) STORY_000488 => Mutated Armament (8) STORY_000451</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3796?tab=files">DLC Check Performance Fix</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3403?tab=files">ArmorSphereMelding 1 5 25 Values | manually fix index | prices 5=>4 & 25=>20 | Advanced Armor Sphere (1) => golden eggs (20) | Damaged Weapon Shard (5) => Oricalcite (4) | Rusted Weapon Shard (20) STORY_000488 => Mutated Armament (8) STORY_000451</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3068?tab=files">R8 Charm Only (changed to 50/20/10/20)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3087?tab=files">Talisman Exporter</a></li>
   </ul>

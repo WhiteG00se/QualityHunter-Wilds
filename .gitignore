@@ -73,7 +73,6 @@ actionManifest/config_controller_xboxone.vdf
 actionManifest/steam_input_manifest.vdf
 D3D12/D3D12Core.dll
 reframework_crash.dmp
-reframework/plugins/DLC_Check_Performance_Patch.log
 _storage_/dinput8.dll
 /CrashReport
 reframework/data/Talisman_Exporter/Exported_Talismans.txt
