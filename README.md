@@ -75,6 +75,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3030?tab=files">Auto-Select Nearest Camp</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3068?tab=files">R8 Charm Only (changed to 50/20/10/20)</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3087?tab=files">Talisman Exporter</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterwilds/mods/3648?tab=files">Carve Gogmazios MORE</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create my mods -->
