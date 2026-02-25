@@ -39,6 +39,7 @@ Graphics_UltrawideFOVMultiplier_V2=1.000000
 Graphics_UltrawideFix=true
 Graphics_UltrawideFixVerticalFOV_V2=true
 Graphics_UltrawideUICorrection=85.000000
+IntegrityCheckBypass_LoadPakDirectory=true
 LooseFileLoader_Enabled=true
 LooseFileLoader_LogAccessedFiles=false
 LooseFileLoader_LogLooseFiles=false
